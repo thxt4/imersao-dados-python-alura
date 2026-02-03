@@ -37,14 +37,6 @@ Código
 
 ```
 
-▶️ Executar no Google Colab
----------------------------
-
-Você pode abrir e executar o notebook diretamente no Google Colab clicando no botão abaixo:
-
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thxt4/imersao-dados-python-alura/blob/main/notebooks/analise_salarios.ipynb
-
-
 📊 Principais etapas
 --------------------
 
